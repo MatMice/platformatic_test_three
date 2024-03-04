@@ -20,7 +20,7 @@ jobs:
       PLT_SERVER_LOGGER_LEVEL: info
       PORT: 3001
       PLT_SERVER_HOSTNAME: 127.0.0.1
-      PLT_TYPESCRIPT: true
+      PLT_TYPESCRIPT: false
       DEPLOY_SERVICE_HOST: https://deploy.platformatic.cloud
 
     
