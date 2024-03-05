@@ -6,10 +6,12 @@
     "build": "platformatic compile"
   },
   "devDependencies": {
-    "fastify": "^4.24.3",
+    "fastify": "^4.26.2",
     "typescript": "~5.2.2"
   },
   "dependencies": {
+    "@platformatic/db": "^1.25.0",
+    "@types/node": "^20.11.24",
     "platformatic": "^1.10.0"
   },
   "engines": {
